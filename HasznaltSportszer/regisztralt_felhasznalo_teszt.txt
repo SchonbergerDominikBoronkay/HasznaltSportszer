@@ -1,0 +1,17 @@
+Egy regisztrált fiók adatai teszteléshez:
+
+E-mail cím
+teszt.sportszer@gmail.com
+
+jelszó
+teszt12345
+
+Admin adatok a teszteléshez:
+
+felhasználónév:
+sonbi
+
+jelszó:
+12345
+
+Admin oldal elérése --> http://localhost/HasznaltSportszer/admin/dashboard.php
